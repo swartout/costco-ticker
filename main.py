@@ -9,9 +9,9 @@ FRAME_HEIGHT = 900
 FRAME_WIDTH = 1500
 DOT_SIZE = 2
 SPACING = 5
-SCROLL_SPEED = 6
-FPS = 600
-CYCLE_TIME = 10
+SCROLL_SPEED = 7
+FPS = 10
+CYCLE_TIME = 600
 NUM_ITEMS = 24
 
 # Function to apply the dot matrix filter
